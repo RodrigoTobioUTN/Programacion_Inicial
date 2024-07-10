@@ -10,7 +10,7 @@
 
 print('Hola mundo Academico!!')
 
-print("Hola soy Rodrigo Tobio de la división 101 y soy del barrio de")
+print("Hola soy Rodrigo Tobio de la división 101 y soy del barrio de Monte Chingolo")
 print("Tengo 36 años")
 print("Mis hobbies son Leer, Música y Hacedor o Reparador autodidacta")
 
